@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Datascience Toolbox Project
